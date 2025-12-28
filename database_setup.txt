@@ -1,0 +1,34 @@
+🔹 WHAT THE USER DOES (pgAdmin UI)
+STEP 1 — Create a database
+In pgAdmin:
+Right-click Databases
+Click Create → Database
+Name it: example: analytics_db
+
+STEP 2 — Open Query Tool
+
+Select the new database
+Right-click → Query Tool
+
+
+STEP 3 — Load the SQL file
+In Query Tool:
+Click File → Open
+Select: gold_dataset.sql you downloaded
+
+
+The SQL will appear in the editor
+STEP 4 — Execute
+Click ▶ Execute (or press F5)
+pgAdmin will: Create all Gold tables and Insert all data
+Commit everything
+
+STEP 5 — Verify
+
+User can run:
+SELECT COUNT(*) FROM gold.fact_orders;
+
+
+If rows appear → ✅ import successful, You can start practicing with SQL 
+
+All the best , Thank you! 
