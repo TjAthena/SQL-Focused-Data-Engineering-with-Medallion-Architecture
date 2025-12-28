@@ -1,4 +1,6 @@
-🔹 WHAT THE USER DOES (pgAdmin UI)
+download the [gold_tier_dataset.sql](/final_data/gold_tier/gold_tier_dataset.sql)
+
+🔹 in(pgAdmin UI)
 STEP 1 — Create a database
 In pgAdmin:
 Right-click Databases
