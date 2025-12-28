@@ -32,6 +32,10 @@ Files of interest:
 - [Scripts/Transfermation_scripts/gold_schema_transformations.sql](Scripts/Transfermation_scripts/gold_schema_transformations.sql)
 
 ## Quickstart
+## just the gold_tier data for SQL practice follow : 
+- [Database_setup](database_setup.txt)
+
+
 Prerequisites: Python 3.8+, and optionally PostgreSQL or DuckDB for querying.
 
 1. Inspect raw data (CSV) in `olist_raw_locall_view/`.
